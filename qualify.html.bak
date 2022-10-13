@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Data</title>
+<link rel="stylesheet" href="harenie.css">
+<link rel="stylesheet" href="qualify.css">
+</head>
+<body>
+	<div class="hero">
+		<nav>
+		<img src="img/logo.png" id="logo">
+		<ul>
+		    <li><a href="harenie.html">HOME</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+			<li><a href="qualify.html">QUALIFICATION</a></li>
+			<li><a href="contact.html">CONTACT ME</a></li>
+		</nav>
+<br><br>
+<h2>My Qualifications</h2>
+<br>
+<h3>1.Ordinary Level Achievements</h3>
+<br>
+<table>
+  <tr>
+    <th>Subjects Name</th>
+    <th>Grades</th>
+  </tr>
+  <tr>
+    <td>Religion</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Tamil</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>English</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>History</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Science</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Mathematics</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>ICT</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>English Literature</td>
+    <td>A</td>
+  </tr>
+  <tr>
+    <td>Commerce</td>
+    <td>A</td>
+  </tr>
+
+</table>
+<br>
+<h3>2.Advance Level Achievements</h3>
+<br>
+<table>
+    <tr>
+      <tr>
+        <th>Subjects Name</th>
+        <th>Grades</th>
+      </tr>
+        <td>Accounting</td>
+        <td>A</td>
+      </tr>
+      <tr>
+        <td>Economics</td>
+        <td>B</td>
+      </tr>
+      <tr>
+        <td>ICT</td>
+        <td>B</td>
+      </tr>
+</table>
+</div>
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Data</title>
+<link rel="stylesheet" href="harenie.css">
+
+</head>
+<body>
+	<div class="hero">
+		<nav>
+		<img src="img/logo.png" id="logo">
+		<ul>
+			<li><a href="harenie.html">HOME</a></li>
+			<li><a href="about me.html">ABOUT</a></li>
+			<li><a href="#">PORTFOLIO</a></li>
+			<li><a href="#">SERVICES</a></li>
+			<li><a href="#">HIRE ME</a></li>
+		</nav>
+
+
+
+
+<section class="about">
+	 <div class="content">
+	 <img src="">
+	  <div class="text">
+	  <h1>About me</h1><br><br><br>
+	  <span>I am a student of University of Moratuwa</span><br><a href="https://uom.lk/">University of Moratuwa, Sri Lanka.</a><br><br>
+       <p> I am a 21 year old girl who seeks to learn many things and to get out from the uni with a degree of Bachelor of Science Honours in Information Technology and Management.
+	     I studeid in Hindu Ladies' College.I am always energetic and eager to learn new skills.I am an effective and articulate communicator.I instil confidence in others and approach new challenges with an open mind.
+		 I have a strong commercial outlook.I am extremely driven, with a clear goal to succeed.Even though I take my work seriously, I do have a good sense of humour.</p>
+		</div>
+	</div>
+ </section>
+
+<section>
+<br>
+<div class="address">
+<ul>
+<li>
+<span class="address-logo">
+<i class="fas fa-address-card"></i>
+<p>Address : Western Province, Sri Lanka.</p>
+</span>
+</li>
+
+<li>
+<span class="address-logo">
+<i class="fas fa-phone"></i>
+<p>Phone Number : +94 0761723207</p>
+</span>
+</li>
+<li>
+<span class="address-logo">
+<i class="fa fa-envelope"></i>
+<p>Email ID : hareniextp@gmail.com</p>
+</span>
+</li>
+</ul>
+</div><br>
+</div>
+</section>
+</div>
+</body>
+</html>

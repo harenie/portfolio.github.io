@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Data</title>
+<link rel="stylesheet" href="harenie.css">
+<link rel="stylesheet" href="qualify.css">
+</head>
+<body>
+	<div class="hero">
+		<nav>
+		<img src="img/logo.png" id="logo">
+		<ul>
+			<li><a href="harenie.html">HOME</a></li>
+			<li><a href="about.html">ABOUT</a></li>
+			<li><a href="qualify.html">QUALIFICATION</a></li>
+			<li><a href="contact.html">CONTACT ME</a></li>
+		</nav>
+		<br><br><br><br><br>
+    <div class="container">
+        
+            <h1>Contact Me....</h1>
+
+            <form class="contact-form" >
+
+            <input type="text" id="first name" class="contact-form-text" placeholder="First Name" required>
+            <input type="text" id="last name"  class="contact-form-text" placeholder="Last Name" required>
+            <input type="email" id="email"  class="contact-form-text" placeholder="Email" required>
+            <input type="text" id="mobile"  class="contact-form-text" placeholder="Mobile Number" required>
+            <textarea class="contact-form-text" placeholder="Type Your message Here...." required></textarea>
+            <input type="submit" class="contact-form-btn"value="Send" id="button">
+        </form>
+    </div>
+</body>
+</html>
